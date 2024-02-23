@@ -1,0 +1,35 @@
+.bi {
+  font-size: 2rem;
+  margin-left: 5px;
+  margin-right: 20px;
+}
+
+#logo {
+  color: #fff;
+  background: var(--verde);
+  height: 100%;
+  width: 300px;
+  z-index: 3000;
+}
+
+#logo a {
+  color: #fff;
+}
+
+nav {
+  background: #fff;
+  padding: 0;
+}
+
+.divnav {
+  padding-left: 0;
+  height: 62px;
+}
+
+
+
+@media screen and (min-width: 1200px) {
+  .navbar-toggler {
+    display: none;
+  }
+}

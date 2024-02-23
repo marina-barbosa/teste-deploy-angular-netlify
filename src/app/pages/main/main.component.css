@@ -1,0 +1,7 @@
+#rightside{
+  /* border: 2px solid rgb(217, 192, 240); */
+  background: var(--cinza);
+  width: 100vw;
+  height: calc(100vh - 119px);
+  margin-top: 62px;
+}
